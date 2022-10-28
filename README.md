@@ -1,2 +1,12 @@
-# Clone-Instagram
-Clone Instagram using React-Native
+# Instagram Application Clone
+
+## Figma : 
+
+## Stack
+
+ - ReactNative
+ - Expo
+ - Nest.js
+ - MongoDB
+
+## 진행 중
